@@ -1,3 +1,3 @@
 # Spider-man
 
-Hello all this is my project with spider-mаn
+Hello all this is my project about spider-man
